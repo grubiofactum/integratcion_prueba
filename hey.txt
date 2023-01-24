@@ -1,1 +1,2 @@
-Commit 8 with url with n feature card
+Delete parent card to commit message
+Create Description to commit message
