@@ -1,2 +1,2 @@
 Awesome feature code
-New line
+New line for new commit
